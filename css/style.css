@@ -1,0 +1,18 @@
+.ha { font-size: 60px;}
+.m1 { background-color: #FFFF00;}
+header{
+  outline-color: black;
+  outline-style: solid;
+  outline-width: 1px; 
+  border-style: solid;
+}
+section{
+  background-color: #FFFF00;
+  border-style: dotted;
+}
+aside{
+    float: left;
+    width: 20%;
+    background-color: silver;
+}
+        
